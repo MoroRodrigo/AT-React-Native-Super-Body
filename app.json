@@ -18,7 +18,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.rodrigomoro.snackff635b1e56cf42468061933ccef32d74"
     },
     "web": {
       "favicon": "./assets/favicon.png"
